@@ -1,31 +1,36 @@
-# Professional Profile
+# Professional Profile for Nazmus Sakib
 
 ## Professional Summary
-Dynamic and detail-oriented professional with over 6 years of experience in software development and programming. Proven track record of delivering robust solutions with a focus on quality and performance.
+Dynamic and results-oriented software engineer with extensive experience in software design, development, and implementation. Proven ability to translate business requirements into technical solutions, enhancing operational efficiency and delivering successful project outcomes.
 
 ## Technical Skills
-- Programming Languages: Python, Java, C++
+- Programming Languages: Java, Python, C++
 - Web Technologies: HTML, CSS, JavaScript, React
-- Databases: MySQL, MongoDB
-- Tools: Git, Docker, Jenkins
+- Database Management: MySQL, MongoDB
+- Tools & Technologies: Git, Docker, Jenkins, AWS
 
-## Experience
-### Software Developer at XYZ Corporation  (2018-2024)
-- Developed and maintained web applications for various clients.
-- Collaborated with cross-functional teams to enhance application performance.
-- Implemented CI/CD pipelines to streamline the development process.
+## Professional Experience
+### Technovative Solutions
+**Software Engineer**  
+- Developed and implemented scalable applications for clients, improving performance and user engagement.  
+- Collaborated with cross-functional teams to define, design, and ship new features.  
 
-### Intern at ABC Solutions  (Summer 2017)
-- Assisted in developing a web-based application for project management.
+### Share Trip  
+**Lead Engineer**  
+- Spearheaded the development of the company’s primary travel management platform.  
+- Managed a team of engineers to deliver complex projects within tight deadlines.  
 
-## Education
-Bachelor of Science in Computer Science  
-University of Technology  
-Graduated: June 2018
+**Software Engineer**  
+- Designed and developed key software components to enhance the user experience.  
 
-## Voluntary Work
-- Volunteered as a coding mentor at Stanford University, helping students learn programming basics and advanced concepts.
+### Green and Red Technologies  
+**Software Engineer**  
+- Contributed to software development projects, refining platforms for optimized performance.  
+- Engaged with stakeholders to gather requirements and implement solutions.
+
+## Voluntary Experience
+### Stanford University  
+- Assisted in research projects, applying software skills to support academic initiatives and gain valuable insights into industry practices.
 
 ## Competitive Programming Achievements
-- Ranked in the top 10% in several online coding competitions.
-- Winner of the XYZ Hackathon 2023, developing a solution for environmental sustainability.
+- Achieved top rankings in various competitive programming contests, demonstrating problem-solving skills and a commitment to continuous learning.
